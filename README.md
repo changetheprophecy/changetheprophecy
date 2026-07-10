@@ -1,32 +1,38 @@
-# 👋 Hi, I'm Atasi!
+# 👋 Hi, I'm Atasi Sharma!
 
-**Student**  
-Currently building with **HTML, CSS, Tailwind, and JavaScript**.
+🎓 Computer Science & Engineering student with a growing interest in **Machine Learning**, **Artificial Intelligence**, and **Web Development**.
 
----
+I enjoy building projects that help me understand how technology works—from creating responsive websites to training machine learning models. My goal is to keep learning, build meaningful projects and contribute to real-world solutions.
 
-### 🚀 About Me
-I’m a passionate student who loves crafting beautiful and functional web experiences. 
+## 🚀 Currently Exploring
 
-- 🧑‍💻 Always eager to learn and experiment with the latest in web development
-- 🎶 Music enthusiast — catch me coding to my favorite tunes!
-- 🌱 Growing every day through code and creativity
+* 🤖 Machine Learning 
+* 🌐 Web Development
+* 📊 Data Analysis & Visualization
 
----
+## 💻 Tech Stack
 
-### 💻 Skills & Tech
+**Languages**
 
-- HTML / CSS / TailwindCSS
-- JavaScript
+* Python
+* Java
+* JavaScript
+* C/C++
 
----
+**Web**
 
-### 📫 Connect with Me
+* HTML
+* CSS
+* Tailwind CSS
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/atasi-sharma-289b2b344)
+## 🌱 Current Goals
 
----
+* Build and publish machine learning projects
+* Learn deep learning fundamentals
+* Improve problem-solving skills
+* Contribute consistently to GitHub
 
-<!--
-✨ Fun fact: Music keeps my code flowing!
--->
+## 📫 Connect with Me
+
+* LinkedIn: https://www.linkedin.com/in/atasi-sharma-289b2b344
+
