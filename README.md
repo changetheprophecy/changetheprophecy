@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Atasi Sharma!
 
-🎓 Computer Science & Engineering student with a growing interest in **Machine Learning**, **Artificial Intelligence**, and **Web Development**.
+🎓 Computer Science & Engineering student with a growing interest in **Machine Learning**, **Artificial Intelligence** and **Web Development**.
 
-I enjoy building projects that help me understand how technology works—from creating responsive websites to training machine learning models. My goal is to keep learning, build meaningful projects and contribute to real-world solutions.
+I enjoy building projects that help me understand how technology works. My goal is to keep learning, build meaningful projects and contribute to real-world solutions.
 
 ## 🚀 Currently Exploring
 
